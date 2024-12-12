@@ -8,7 +8,6 @@ html only multi page website
 * [Features](#features)
 * [Setup](#setup)
 * [Site_URL](#site_url)
-* [Contact](#contact)
 
 ## General Information
 - demonstrate knowledge of HTML and proper webpage HTML structure
@@ -26,5 +25,5 @@ List the ready features here:
 
 
 ## link to webside
-- https://roadmap.sh/projects/basic-html-website
+- 
 
